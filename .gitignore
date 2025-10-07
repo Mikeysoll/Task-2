@@ -1,6 +1,7 @@
 ### Gradle ###
 .gradle/
 build/
+out/
 
 ### IntelliJ IDEA ###
 .idea/
@@ -8,9 +9,19 @@ build/
 *.iml
 *.ipr
 
-### OS файлы ###
+### OS ###
 .DS_Store
 Thumbs.db
 
-### Логи ###
+### Logs ###
 *.log
+
+### Java ###
+*.class
+*.jar
+*.war
+*.ear
+
+### Temp ###
+*.swp
+*~
