@@ -1,9 +1,9 @@
 ### Gradle ###
-.gradle/          # кэш Gradle, не коммитим
-build/            # сборка, артефакты
+.gradle/
+build/
 
 ### IntelliJ IDEA ###
-.idea/            # IDE-шные настройки
+.idea/
 *.iws
 *.iml
 *.ipr
